@@ -1,4 +1,4 @@
-# Hola soy Diamela Villalba 💎 !!!
+# ¡¡¡Hola soy Diamela Villalba 💎 !!!
 
 ### _Quien soy ??_
 
@@ -15,7 +15,6 @@ Mi actual trabajo como Asesora Legislativa en el Honorable Senado de la Provinci
 Mi objetivo principal es continuar mi crecimiento en el campo tecnológico y aprovechar mis conocimientos en diversas áreas para aportar valor a los proyectos en los que participe. Creo firmemente en la posibilidad de ofrecer soluciones innovadoras y optimizar sistemas existentes para simplificar nuestra vida diaria.
 
 ---
-<font color="blue">###_Tecnologías🥇_</font>
 ###_Tecnologías🥇_
 
 
