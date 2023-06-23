@@ -56,21 +56,8 @@ Mi objetivo principal es continuar mi crecimiento en el campo tecnológico y apr
 <br><hr>
 
 <h2 align="left"><font color="00E7FF"><i>Contacta conmigo:</i></font></h2>
-<br>
-<<<<<<< HEAD
-=======
+<br><hr>
 
-<h3 align="left"><font color="EBC7E6"> Linkedin : &#160 </font>
-<a href="https://linkedin.com/in/diamela-villalba-b96a71251" target="blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diamela-villalba-b96a71251" height="20" width="30" /></a>
-</h3>
-<h3 align="left"><font color="EBC7E6"> Instagram : &#160 </font>
-<a href="https://instagram.com/diamelavp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="diamelavp" height="40" width="30" /></a>
-</h3>
-<h3 align="left"><font color="EBC7E6"> Discord : &#160 </font>
-<a href="https://discord.gg/diamela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="diamela" height="30" width="40" /></a>
-</h3>
-</p>
->>>>>>> 148e24b5058a184ba99d0fbec985fd7e3e0ac18f
 
 <h3 align="left"><font color="EBC7E6"> Linkedin : &#160 </font>
 <a href="https://linkedin.com/in/diamela-villalba-b96a71251" target="blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diamela-villalba-b96a71251" height="20" width="30" /></a>
