@@ -50,12 +50,7 @@ Mi objetivo principal es continuar mi crecimiento en el campo tecnológico y apr
 <br><hr>
 
 <h2 align="left"><font color="00E7FF"><i>Contacta conmigo:</i></font></h2>
-<<<<<<< HEAD
-<br>
-=======
-<br><hr>
 
->>>>>>> 3ca48994baa3442c7d9ebe78229ec568a90bd006
 
 <h3 align="left"><font color="EBC7E6"> Linkedin : &#160 </font>
 <a href="https://linkedin.com/in/diamela-villalba-b96a71251" target="blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diamela-villalba-b96a71251" height="20" width="30" /></a>
