@@ -1,7 +1,5 @@
 <h1>Hola mi nombre es <i>Diamela Villalba</i> !!!</h1>
-
-<img src="https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif" width="800" height="150"/>
-
+<img src="https://media.giphy.com/media/4a7DGQqY7pkdfxKJxw/giphy.gif" width="800" height="150"/>
 <h2>
 <font color="00FFF6"><i>Quién soy ??</i></font></h2>
 <p fontsize="roboto">
