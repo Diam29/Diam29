@@ -1,8 +1,6 @@
-<div>
-
 <h1>Hola mi nombre es <i>Diamela Villalba</i> !!!</h1>
 
-<img src="https://media.giphy.com/media/7FrOU9tPbgAZtxV5mb/giphy-downsized-large.gif" width="400" height="100">
+<img src="https://media.giphy.com/media/7FrOU9tPbgAZtxV5mb/giphy-downsized-large.gif" width="500" height="100">
 
 <h2>
 <font color="00FFF6"><i>Quién soy ??</i></font></h2>
@@ -31,11 +29,7 @@ Mi objetivo principal es continuar mi crecimiento en el campo tecnológico y apr
 
 <p align="left"> 
 <ul>
-<a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+  
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
@@ -57,20 +51,6 @@ Mi objetivo principal es continuar mi crecimiento en el campo tecnológico y apr
 
 <h2 align="left"><font color="00E7FF"><i>Contacta conmigo:</i></font></h2>
 <br>
-<<<<<<< HEAD
-=======
-
-<h3 align="left"><font color="EBC7E6"> Linkedin : &#160 </font>
-<a href="https://linkedin.com/in/diamela-villalba-b96a71251" target="blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diamela-villalba-b96a71251" height="20" width="30" /></a>
-</h3>
-<h3 align="left"><font color="EBC7E6"> Instagram : &#160 </font>
-<a href="https://instagram.com/diamelavp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="diamelavp" height="40" width="30" /></a>
-</h3>
-<h3 align="left"><font color="EBC7E6"> Discord : &#160 </font>
-<a href="https://discord.gg/diamela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="diamela" height="30" width="40" /></a>
-</h3>
-</p>
->>>>>>> 148e24b5058a184ba99d0fbec985fd7e3e0ac18f
 
 <h3 align="left"><font color="EBC7E6"> Linkedin : &#160 </font>
 <a href="https://linkedin.com/in/diamela-villalba-b96a71251" target="blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diamela-villalba-b96a71251" height="20" width="30" /></a>
